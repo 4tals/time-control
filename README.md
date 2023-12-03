@@ -1,1 +1,18 @@
 # time-control
+- TimeSync
+  - Automatic Event Integration from all platforms
+    - Desktop / Phone
+      - Apps
+        - Vscode
+          - Manage to tag by Project / Folder
+        - Discord
+          - Manage to tag by Channel
+      - Web
+        - Sites
+      - Calls / Meets
+        - By the one I talked to
+  - Smart Categorization: Automatically tags events based on predefined rules (e.g., calls with family members tagged as 'Family').
+  - Multiple Tagging: Allows tagging of a single event under multiple categories.
+  - Calendar Sync: Seamlessly updates your calendar with tagged events.
+- Define Targets
+- 
