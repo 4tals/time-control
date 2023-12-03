@@ -1,5 +1,7 @@
 # time-control
 - TimeSync
+  - Potential Solution
+    - RescueTime
   - Automatic Event Integration from all platforms
     - Desktop / Phone
       - Apps
